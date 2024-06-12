@@ -1,0 +1,14 @@
+{
+  "name": "graphql_skeleton",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/kamensgh/graphql_skeleton.git",
+  "author": "Kwame Mensah",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.10.4",
+    "graphql": "^16.8.1",
+    "nodemon": "^3.1.3"
+  }
+}
